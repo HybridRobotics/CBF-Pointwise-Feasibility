@@ -8,9 +8,9 @@ The infeasibility issues between safety constraints and input constraints might 
 *Jun Zeng, Bike Zhang, Zhongyu Li, and Koushil Sreenath*
 
 #### Citing
-If you find this code useful in your work, please consider citing:
+If you find this project useful in your work, please consider citing:
 ```
-@article{zeng2021optimal-decay,
+@inproceedings{zeng2021optimal-decay,
   title={Safety-Critical Control using Optimal-decay Control Barrier Functions with Guaranteed Point-wise Feasibility},
   author={Zeng, Jun and Zhang, Bike and Li, Zhongyu and Sreenath, Koushil},
   booktitle={2021 American Control Conference (ACC)},
